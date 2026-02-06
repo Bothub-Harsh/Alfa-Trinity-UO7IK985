@@ -43,7 +43,8 @@ def get_answer(question):
         "contact": "CONTACT:",
         "phone": "CONTACT:",
         "office": "OFFICE HOURS:",
-        "timing": "OFFICE HOURS:"
+        "timing": "OFFICE HOURS:",
+        "other websites": "OTHER WEBSITES:"
     }
 
     section_key = None
