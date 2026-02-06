@@ -171,4 +171,8 @@ For any college related queries:
 
 ---
 
+
+RUN - https://alfa-trinity-uo7ik985-j2pl4eqzlcul596ep9n7zp.streamlit.app/
+
 ### ⭐ Thank You!
+
