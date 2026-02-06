@@ -42,6 +42,7 @@ def get_answer(question):
         "company": "PLACEMENT COMPANIES:",
         "contact": "CONTACT:",
         "phone": "CONTACT:",
+        "cutoff": "CUTOFF:",
         "office": "OFFICE HOURS:",
         "timing": "OFFICE HOURS:",
         "other websites": "OTHER WEBSITES:",
