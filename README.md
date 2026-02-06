@@ -56,10 +56,8 @@ An AI-based automated chatbot that answers all common questions instantly using 
 
 | Technology | Purpose |
 |-----------|---------|
-| HTML | Structure of chatbot interface |
-| CSS | Styling and design |
-| JavaScript | Logic and interaction |
-| Web Speech API | Voice command support |
+| Streamlit  |
+
 
 ### Backend Technologies (Optional / Future Upgrade)
 
@@ -67,7 +65,7 @@ An AI-based automated chatbot that answers all common questions instantly using 
 |-----------|---------|
 | Python | Backend programming |
 | Flask | Web server connection |
-| JSON | College information storage |
+
 
 ---
 
