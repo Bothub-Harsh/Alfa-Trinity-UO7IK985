@@ -44,8 +44,9 @@ def get_answer(question):
         "phone": "CONTACT:",
         "office": "OFFICE HOURS:",
         "timing": "OFFICE HOURS:",
-        "other websites": "OTHER WEBSITES:"
-        "hi":"HI:"
+        "other websites": "OTHER WEBSITES:",
+        "hi": "HI:",
+        "hello": "HI:"
     }
 
     section_key = None
